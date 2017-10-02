@@ -1,0 +1,90 @@
+body{
+background-image:url("img/background.jpg");
+margin: 0px auto;
+}
+.navegador{
+
+display:flex; 
+height: 120px; 
+width: 99%;  
+position: fixed; 
+background-color: #5A7A95;
+border-radius: 25px;
+border: 5px solid #ffffff;
+
+}
+.menu {
+height: 40%;
+margin: 0 auto;
+
+}
+
+.link {
+text-align: center;
+background-color: #3E8DCC;
+padding: 5px;
+border: 5px solid #ffffff;
+border-radius: 30px;
+font-size: 32px; 	
+font-family: arial; 
+font-weight: bold; 
+}
+
+.blank{
+height: 180px;
+width: 200px;
+
+}
+
+.cuerpo{
+margin: 0px auto;
+background-color: #5A7A95;
+height: 1050px;
+width: 1100px;
+
+}
+
+.arti{
+
+float: left;
+border: 25px solid #5A7A95;
+background-color: #3171C6;
+height: 300px;
+width: 315px;
+font-size: 32px; 	
+font-family: arial; 
+font-weight: bold; 
+
+}
+
+#intel{
+
+background-image: url("img/intel7.jpg");
+height: 250px;
+width: 315px;
+
+}
+
+#gtx{
+background-image: url("img/gtx1080.jpg");
+height: 250px;
+width: 315px;
+}
+
+.desc{
+text-align: center;
+font-size: 16px; 	
+font-family: arial; 
+font-weight: bold; 
+}
+
+footer{
+background-color: #132A7F;
+height: 400px; 	
+width: 100%;
+}
+
+
+
+
+
